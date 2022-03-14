@@ -1,9 +1,16 @@
 {
-  "total": 57,
+  "total": 28,
   "tools inspection": {
-    "Code Inspection": 57
+    "Code Inspection": 28
   },
   "attributes": {
-    "deviceId": "200820300000000-b1e0-16a1-bac0-af3b5dba5b3d"
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/salexdv/bsl-language-server",
+        "revisionId": "52417e67ab3226d86edd0a6959b656ea0d728ab4",
+        "branch": "develop"
+      }
+    },
+    "deviceId": "200820300000000-e28f-3ded-b2a6-3731aa47818d"
   }
 }
